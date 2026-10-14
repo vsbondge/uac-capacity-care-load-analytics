@@ -1,0 +1,16 @@
+{
+  "rows": 720,
+  "start": "2023-01-12",
+  "end": "2025-12-21",
+  "date_gaps": 355,
+  "duplicate_dates": 0,
+  "mean_cbp": 171.49444444444444,
+  "mean_hhs": 6061.275,
+  "mean_total": 6232.769444444444,
+  "max_total": 11762.0,
+  "max_total_date": "2023-12-20",
+  "mean_transfer": 128.66805555555555,
+  "mean_discharge": 173.40694444444443,
+  "mean_net": -44.73888888888889,
+  "positive_net_share": 33.05555555555556
+}
